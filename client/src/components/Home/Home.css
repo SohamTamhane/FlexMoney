@@ -1,0 +1,14 @@
+.homepage-main-div{
+    min-height: 83vh;
+}
+.banner-div{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+    width: auto;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aquamarine;
+}
